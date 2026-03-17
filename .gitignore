@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .codex/
+demo/palette.png
+demo/thumb_*.png
+demo/MJ_1773720868.MOV
