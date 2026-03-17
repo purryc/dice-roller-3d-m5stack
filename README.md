@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="demo/m5stack-cores3-dice-demo.mov">Watch full demo video</a>
+  <a href="demo/m5stack-cores3-dice-demo.mp4">Watch full demo video</a>
 </p>
 
 ## Highlights
@@ -31,7 +31,7 @@
 
 Full recorded demo:
 
-- [demo/m5stack-cores3-dice-demo.mov](demo/m5stack-cores3-dice-demo.mov)
+- [demo/m5stack-cores3-dice-demo.mp4](demo/m5stack-cores3-dice-demo.mp4)
 
 ## Stack
 
